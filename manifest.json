@@ -1,16 +1,1 @@
-{
-  "short_name": "KGH Plus",
-  "name": "KGH Plus Offline Blog",
-  "icons": [
-    {
-      "src": "https://blogger.googleusercontent.com/img/b/R29zZ2xl/AVvXsEgf...", 
-      "sizes": "192x192",
-      "type": "image/png"
-    }
-  ],
-  "start_url": "./index.html",
-  "background_color": "#ffffff",
-  "display": "standalone",
-  "scope": "./",
-  "theme_color": "#2583ad"
-}
+a
